@@ -6,7 +6,7 @@
 
 .container {
   /* background-color:  #F4EBD0; */
-  background-color: #c7c4c1;
+  background-color: #d3cac1;
   min-height: 100vh;
   border: 10px solid #31765e;
 }
@@ -24,7 +24,7 @@
 .top_section h1 {
   font-size: 50px;
   font-weight: bold;
-  color: #1d1e4c;
+  color: #262761;
   text-transform: uppercase;
 }
 .top_section h4 {
